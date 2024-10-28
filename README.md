@@ -5,11 +5,11 @@
 ![alt text](image-6.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
-### Introdução
+## Introdução
 
 Este projeto consiste na criação de um site fictício para o Burguer King, desenvolvido para aprimorar habilidades em HTML, CSS e Bootstrap. A página apresenta uma interface amigável e interativa, com carrossel de imagens e menu de navegação para facilitar a experiência do usuário.
 
-Estrutura do Projeto
+## Estrutura do Projeto
 
 Página Inicial: Uma introdução ao site com boas-vindas e carrossel de imagens para destacar produtos.
 
@@ -20,7 +20,7 @@ Cardápio: Lista de produtos com descrições e preços.
 Contato: Formulário de contato para os clientes interagirem com o Burguer King.
 
 
-Etapas Implementadas
+## Etapas Implementadas
 
 1. Configuração do HTML e CSS: Estruturação das páginas principais e estilização com Bootstrap.
 
@@ -35,7 +35,7 @@ Etapas Implementadas
 
 
 
-Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 Visual Studio Code: IDE para o desenvolvimento e edição de código.
 
@@ -44,7 +44,7 @@ Bootstrap 5.3: Framework CSS para design responsivo e componentes.
 HTML e CSS: Estrutura e estilização das páginas.
 
 
-Conclusão
+## Conclusão
 
 O site criado oferece uma experiência simples e eficaz para navegação, combinando a funcionalidade do Bootstrap com um layout intuitivo e responsivo. Este projeto pode ser expandido com mais funcionalidades, como sistema de pedidos online e cadastro de usuários, melhorando a experiência do cliente e tornando o site mais dinâmico.
 
