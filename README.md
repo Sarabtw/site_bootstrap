@@ -5,7 +5,7 @@
 ![alt text](image-6.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
-Introdução
+### Introdução
 
 Este projeto consiste na criação de um site fictício para o Burguer King, desenvolvido para aprimorar habilidades em HTML, CSS e Bootstrap. A página apresenta uma interface amigável e interativa, com carrossel de imagens e menu de navegação para facilitar a experiência do usuário.
 
